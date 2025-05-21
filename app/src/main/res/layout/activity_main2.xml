@@ -20,7 +20,7 @@
         app:layout_constraintVertical_bias="0.158" />
 
     <Button
-        android:id="@+id/true1"
+        android:id="@+id/trueclick"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="True"
@@ -32,7 +32,7 @@
         app:layout_constraintVertical_bias="0.392" />
 
     <Button
-        android:id="@+id/false1"
+        android:id="@+id/falseclick"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="False"
@@ -44,7 +44,7 @@
         app:layout_constraintVertical_bias="0.392" />
 
     <Button
-        android:id="@+id/nextpage1"
+        android:id="@+id/nextpage"
         android:layout_width="406dp"
         android:layout_height="74dp"
         android:text="Next Question"
@@ -56,7 +56,7 @@
         app:layout_constraintVertical_bias="0.628" />
 
     <TextView
-        android:id="@+id/feedback1"
+        android:id="@+id/feedbacktext"
         android:layout_width="206dp"
         android:layout_height="32dp"
         android:text=""
